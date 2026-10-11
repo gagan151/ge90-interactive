@@ -1,0 +1,6 @@
+.ge-flow{fill:none;stroke-linecap:round;stroke-width:1.5;pointer-events:none}
+.ge-flow[data-tone="mid"]{stroke:var(--anatomy-mid);opacity:.85}
+.ge-flow[data-tone="lit"]{stroke:var(--anatomy-lit)}
+.ge-hot{fill:none;stroke-linecap:round;stroke-width:14;stroke:var(--anatomy-red);opacity:.1;pointer-events:none}
+.iso-stage{cursor:crosshair;touch-action:pan-y}
+.iso-stage[data-drag]{cursor:grabbing}
